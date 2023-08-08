@@ -1,0 +1,4 @@
+C:/Users/Benjamin Sinzore/Documents/HeavyStaff/Android Git Projects/Wallpaper/WallYou-main/renderscript-toolkit/.cxx/Debug/1e193f6g/x86/CMakeFiles/renderscript-toolkit.dir
+C:/Users/Benjamin Sinzore/Documents/HeavyStaff/Android Git Projects/Wallpaper/WallYou-main/renderscript-toolkit/.cxx/Debug/1e193f6g/x86/CMakeFiles/cpufeatures.dir
+C:/Users/Benjamin Sinzore/Documents/HeavyStaff/Android Git Projects/Wallpaper/WallYou-main/renderscript-toolkit/.cxx/Debug/1e193f6g/x86/CMakeFiles/edit_cache.dir
+C:/Users/Benjamin Sinzore/Documents/HeavyStaff/Android Git Projects/Wallpaper/WallYou-main/renderscript-toolkit/.cxx/Debug/1e193f6g/x86/CMakeFiles/rebuild_cache.dir

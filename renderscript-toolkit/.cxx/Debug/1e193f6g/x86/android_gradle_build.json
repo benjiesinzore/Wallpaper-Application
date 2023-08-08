@@ -1,0 +1,46 @@
+{
+  "buildFiles": [
+    "C:\\Users\\Benjamin Sinzore\\Documents\\HeavyStaff\\Android Git Projects\\Wallpaper\\WallYou-main\\renderscript-toolkit\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\Benjamin Sinzore\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\Benjamin Sinzore\\Documents\\HeavyStaff\\Android Git Projects\\Wallpaper\\WallYou-main\\renderscript-toolkit\\.cxx\\Debug\\1e193f6g\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\Benjamin Sinzore\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\Benjamin Sinzore\\Documents\\HeavyStaff\\Android Git Projects\\Wallpaper\\WallYou-main\\renderscript-toolkit\\.cxx\\Debug\\1e193f6g\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "cpufeatures::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "cpufeatures",
+      "output": "C:\\Users\\Benjamin Sinzore\\Documents\\HeavyStaff\\Android Git Projects\\Wallpaper\\WallYou-main\\renderscript-toolkit\\.cxx\\Debug\\1e193f6g\\x86\\libcpufeatures.a"
+    },
+    "renderscript-toolkit::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "renderscript-toolkit",
+      "output": "C:\\Users\\Benjamin Sinzore\\Documents\\HeavyStaff\\Android Git Projects\\Wallpaper\\WallYou-main\\renderscript-toolkit\\build\\intermediates\\cxx\\Debug\\1e193f6g\\obj\\x86\\librenderscript-toolkit.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "C:\\Users\\Benjamin Sinzore\\AppData\\Local\\Android\\Sdk\\ndk\\23.1.7779620\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe",
+      "cppCompilerExecutable": "C:\\Users\\Benjamin Sinzore\\AppData\\Local\\Android\\Sdk\\ndk\\23.1.7779620\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

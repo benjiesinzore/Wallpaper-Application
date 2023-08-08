@@ -1,0 +1,25 @@
+# ninja log v5
+3	15580	7131260824908411	CMakeFiles/renderscript-toolkit.dir/Blend.cpp.o	cc496c5b8c717dd
+151	15658	7131260825628473	CMakeFiles/renderscript-toolkit.dir/Convolve3x3.cpp.o	828e84d93cf0fcf5
+136	15713	7131260827138433	CMakeFiles/renderscript-toolkit.dir/Convolve5x5.cpp.o	b47f2569b397b240
+167	15787	7131260828378474	CMakeFiles/renderscript-toolkit.dir/Histogram.cpp.o	d23df6361bbc28bd
+37	16317	7131260830168456	CMakeFiles/renderscript-toolkit.dir/Blur.cpp.o	5fe33ea02c2ba107
+71	16782	7131260831598424	CMakeFiles/renderscript-toolkit.dir/ColorMatrix.cpp.o	a48cb20a915489b6
+16319	19745	7131260867258502	CMakeFiles/renderscript-toolkit.dir/Utils.cpp.o	1c2b11414a834775
+15659	22166	7131260887468478	CMakeFiles/renderscript-toolkit.dir/RenderScriptToolkit.cpp.o	5f5670489a8234f0
+15788	22347	7131260889118517	CMakeFiles/renderscript-toolkit.dir/Lut3d.cpp.o	2a3a7927b90b1c4c
+15591	22551	7131260887658465	CMakeFiles/renderscript-toolkit.dir/JniEntryPoints.cpp.o	5459e878ee528de3
+15714	22572	7131260890448438	CMakeFiles/renderscript-toolkit.dir/Lut.cpp.o	444e4370ed6597d6
+22573	24469	7131260914538449	CMakeFiles/renderscript-toolkit.dir/Lut3d_neon.S.o	f96ef7366e750016
+16785	24536	7131260914848463	CMakeFiles/renderscript-toolkit.dir/TaskProcessor.cpp.o	1ce2ee4367788283
+22168	24565	7131260914798546	CMakeFiles/renderscript-toolkit.dir/Blend_neon.S.o	2e17e99d28a8b56
+22349	24645	7131260916558489	CMakeFiles/renderscript-toolkit.dir/Blur_neon.S.o	474552aab6691753
+19748	26256	7131260929508437	CMakeFiles/renderscript-toolkit.dir/Resize.cpp.o	e4546d7f73c195bd
+24566	26809	7131260934358449	CMakeFiles/renderscript-toolkit.dir/Resize_neon.S.o	3706c51cc82f8855
+24479	26824	7131260932898444	CMakeFiles/renderscript-toolkit.dir/Convolve_neon.S.o	621ffd5f229f1114
+24538	26997	7131260936578465	CMakeFiles/renderscript-toolkit.dir/ColorMatrix_neon.S.o	33929f0007a9fe72
+24646	27068	7131260937698410	CMakeFiles/renderscript-toolkit.dir/YuvToRgb_neon.S.o	ea76facdbcf96994
+22554	27771	7131260947848422	CMakeFiles/renderscript-toolkit.dir/YuvToRgb.cpp.o	dd75238384bc7ba2
+26258	28244	7131260953738476	CMakeFiles/cpufeatures.dir/d61c74a024badd9fd0b05cbb56b711ca/sources/android/cpufeatures/cpu-features.c.o	59deef3c50c774db
+28248	29502	7131260963178433	libcpufeatures.a	1cabbcc327f599d8
+29503	30653	7131260976238436	C:/Users/Benjamin Sinzore/Documents/HeavyStaff/Android Git Projects/Wallpaper/WallYou-main/renderscript-toolkit/build/intermediates/cxx/Debug/1e193f6g/obj/armeabi-v7a/librenderscript-toolkit.so	e580dd9d39230bf3

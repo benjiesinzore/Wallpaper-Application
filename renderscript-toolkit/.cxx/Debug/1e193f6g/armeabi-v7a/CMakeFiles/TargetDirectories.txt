@@ -1,0 +1,4 @@
+C:/Users/Benjamin Sinzore/Documents/HeavyStaff/Android Git Projects/Wallpaper/WallYou-main/renderscript-toolkit/.cxx/Debug/1e193f6g/armeabi-v7a/CMakeFiles/renderscript-toolkit.dir
+C:/Users/Benjamin Sinzore/Documents/HeavyStaff/Android Git Projects/Wallpaper/WallYou-main/renderscript-toolkit/.cxx/Debug/1e193f6g/armeabi-v7a/CMakeFiles/cpufeatures.dir
+C:/Users/Benjamin Sinzore/Documents/HeavyStaff/Android Git Projects/Wallpaper/WallYou-main/renderscript-toolkit/.cxx/Debug/1e193f6g/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/Benjamin Sinzore/Documents/HeavyStaff/Android Git Projects/Wallpaper/WallYou-main/renderscript-toolkit/.cxx/Debug/1e193f6g/armeabi-v7a/CMakeFiles/rebuild_cache.dir

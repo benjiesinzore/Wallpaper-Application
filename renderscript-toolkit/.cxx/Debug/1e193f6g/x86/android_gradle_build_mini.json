@@ -1,0 +1,33 @@
+{
+  "buildFiles": [
+    "C:\\Users\\Benjamin Sinzore\\Documents\\HeavyStaff\\Android Git Projects\\Wallpaper\\WallYou-main\\renderscript-toolkit\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\Benjamin Sinzore\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\Benjamin Sinzore\\Documents\\HeavyStaff\\Android Git Projects\\Wallpaper\\WallYou-main\\renderscript-toolkit\\.cxx\\Debug\\1e193f6g\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\Benjamin Sinzore\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\Benjamin Sinzore\\Documents\\HeavyStaff\\Android Git Projects\\Wallpaper\\WallYou-main\\renderscript-toolkit\\.cxx\\Debug\\1e193f6g\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "renderscript-toolkit::@6890427a1f51a3e7e1df": {
+      "artifactName": "renderscript-toolkit",
+      "abi": "x86",
+      "output": "C:\\Users\\Benjamin Sinzore\\Documents\\HeavyStaff\\Android Git Projects\\Wallpaper\\WallYou-main\\renderscript-toolkit\\build\\intermediates\\cxx\\Debug\\1e193f6g\\obj\\x86\\librenderscript-toolkit.so",
+      "runtimeFiles": []
+    },
+    "cpufeatures::@6890427a1f51a3e7e1df": {
+      "artifactName": "cpufeatures",
+      "abi": "x86",
+      "output": "C:\\Users\\Benjamin Sinzore\\Documents\\HeavyStaff\\Android Git Projects\\Wallpaper\\WallYou-main\\renderscript-toolkit\\.cxx\\Debug\\1e193f6g\\x86\\libcpufeatures.a",
+      "runtimeFiles": []
+    }
+  }
+}
